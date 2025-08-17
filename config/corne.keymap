@@ -152,8 +152,8 @@
       bindings = <
 
 &none  /**/  &kp TAB   &kp N1    &kp N2  &kp N3  &kp N4 /**/  &trans &trans &trans &trans &trans /**/ &none
-&none  /**/  &kp LCTRL  &kp Q    &kp W   &kp E   &kp R  /**/  &trans &trans &trans &trans &trans /**/ &none
-&none  /**/  &kp LSHIFT &mt B A  &kp S   &kp D   &kp F  /**/  &trans &trans &trans &trans &trans /**/ &none
+&none  /**/  &kp LSHIFT  &kp Q    &kp W   &kp E   &kp R  /**/  &trans &trans &trans &trans &trans /**/ &none
+&none  /**/  &kp LCTRL &kp A  &kp S   &kp D   &kp F  /**/  &trans &trans &trans &trans &trans /**/ &none
                            &kp ESC &kp LALT &kp SPACE   /**/  &tog LOL &trans &trans
 
       >;
